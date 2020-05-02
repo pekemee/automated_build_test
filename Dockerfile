@@ -1,2 +1,2 @@
-FROM dockersamples/static_site
+FROM ubuntu:latest
 ENV AUTHOR="ken komori"
